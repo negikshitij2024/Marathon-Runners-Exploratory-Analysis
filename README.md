@@ -1,5 +1,8 @@
 # Marathon-Runners-Exploratory-Analysis
 
+    Click here to open the jupyter file 
+https://github.com/negikshitij2024/Marathon-Runners-Exploratory-Analysis/blob/main/Runners%20Analysis.ipynb
+
 
 ## Problem Statement
 Explore the Ultra-marathon-running data for the races run in USA and gain insigths on the trends which the performance of athletes follows based upon their gender, the age group and the season of the year.
